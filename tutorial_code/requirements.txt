@@ -1,0 +1,14 @@
+# NOTE: These aren't all of the dependencies, we install some in the Dockerfile because they require special attention
+matplotlib
+pandas
+rpy2
+statsmodels
+scikit-learn
+jupyter
+pyramid-arima
+tensorflow
+gpflow
+Keras
+mass-ts
+plotly
+joblib
